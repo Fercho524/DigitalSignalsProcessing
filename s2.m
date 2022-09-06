@@ -1,3 +1,4 @@
+% Contador Binario
 function bits= s2()
 
 b1 = reloj(20,20);
