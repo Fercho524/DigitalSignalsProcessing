@@ -11,3 +11,4 @@ hold off
 
 ylabel("Corriente")
 xlabel("Tiempo")
+
